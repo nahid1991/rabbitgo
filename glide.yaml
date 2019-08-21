@@ -1,0 +1,3 @@
+package: github.com/nahid1991/rabbitgo
+import:
+- package: github.com/streadway/amqp
